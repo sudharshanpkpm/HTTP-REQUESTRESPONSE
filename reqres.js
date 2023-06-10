@@ -1,4 +1,4 @@
-var http = require("http");
+ var http = require("http");
 function samp(request,response)
 {
     response.writeHead(200,{"content-Type":"text/html"});
